@@ -1,3 +1,3 @@
 # text-classification-sklearn
 
-Text classification using Scikit-Learn.
+Code for the video tutorial "Text classification using Scikit-Learn".
